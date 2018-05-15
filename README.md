@@ -1,2 +1,2 @@
 # Marx_Cap_1
-Initial Build for Marx's Digital Edition
+Initial Build for Digital Edition of Marx's Capital Vol.1
