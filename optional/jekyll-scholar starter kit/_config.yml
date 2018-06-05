@@ -25,11 +25,11 @@ kramdown:
   enable_coderay: false
 
 # Setup
-title:               Ed.
-tagline:             'A Jekyll theme for minimal editions'
+title:               'VOL. 1'
+tagline:             'an online digital editin of Marx's CAPITAL'
 description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
 url:                 https://github.com/minicomp/ed
-baseurl:             '/ed'
+baseurl:             '/vol1'
 
 # About/contact
 author:
@@ -72,4 +72,3 @@ scholar:
   details_link:   Details
 
   query: "@*"
-
