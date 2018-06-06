@@ -8,7 +8,7 @@ collections:
   texts:
     output: true
 color-scheme: ~
-description: "Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility."
+description: "Volume 1 is an online digital edition of the first installment of Marx's CAPITAL - A CRITIQUE OF POLITICAL ECONOMY. The edition is designed for scholars, students, and all other readers of Marx."
 encoding: utf-8
 exclude:
   - optional
@@ -25,5 +25,5 @@ markdown: kramdown
 permalink: "/:title/"
 tagline: "an online digital edition of Marx's CAPITAL"
 theme: ed.
-title: Vol. 1
+title: VOLUME 1
 url: "http://minicomp.github.io"
