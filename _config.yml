@@ -23,7 +23,7 @@ kramdown:
   toc_levels: "1..6"
 markdown: kramdown
 permalink: "/:title/"
-tagline: "an online digital edition of Marx's CAPITAL"
+tagline: "an online digital edition of Marx's CAPITAL (Ed. + hypothes.is)"
 theme: ed.
 title: VOLUME 1
 url: "http://minicomp.github.io"
