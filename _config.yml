@@ -8,7 +8,7 @@ collections:
   texts:
     output: true
 color-scheme: ~
-description: "Volume 1 is an online digital edition of the first installment of Marx's CAPITAL - A CRITIQUE OF POLITICAL ECONOMY. The edition is designed for scholars, students, and all other readers of Marx."
+description: "MARXdown is an online digital project developed for the Contemporary Marxist Reading Group (CMRG) at Carnegie Mellon University using the lightweight markup language Markdown."
 encoding: utf-8
 exclude:
   - optional
@@ -23,7 +23,7 @@ kramdown:
   toc_levels: "1..6"
 markdown: kramdown
 permalink: "/:title/"
-tagline: "an online digital edition of Marx's CAPITAL (Ed. + hypothes.is)"
+tagline: "(Ed. + hypothes.is)"
 theme: ed.
-title: VOLUME 1
+title: MARXdown
 url: "http://minicomp.github.io"
