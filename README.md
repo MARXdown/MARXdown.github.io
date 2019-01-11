@@ -1,4 +1,4 @@
-# Marx_Cap_1
+# MARXdown
 Initial Build for Digital Edition of Marx's Capital Vol.1
 
 MARXdown is an online digital project developed for the Contemporary Marxist Reading Group (CMRG) at Carnegie Mellon University using the lightweight markup language Markdown. Designed to support group annotation of key texts for our CMRG, it provides a centralized and accessible online space for ongoing critical engagement between readers and materials related to the study of Marxist theory.
