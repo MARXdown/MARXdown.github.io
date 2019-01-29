@@ -15,12 +15,12 @@ This digital edition brings together the original English translation from 1887 
 
 * * *
 
-### Credits
+### Project Leads
 
 #### Steven Gotzler
 
-PhD Candidate in Literary and Cultural Studies,
-Carnegie Mellon University
+<span style="font-size:4em;">PhD Candidate in Literary and Cultural Studies,
+Carnegie Mellon University</span>
 
 #### Avery J. Wiscomb
 
