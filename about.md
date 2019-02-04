@@ -17,21 +17,17 @@ This digital edition brings together the original English translation from 1887 
 
 ### Project Leads
 
-#### Steven Gotzler
+**Steven Gotzler**
 
-<span style="font-size:4em;">PhD Candidate in Literary and Cultural Studies,
-Carnegie Mellon University</span>
+*PhD Candidate in Literary and Cultural Studies, Carnegie Mellon University*
 
-#### Avery J. Wiscomb
+**Avery J. Wiscomb**
 
-PhD Student in Literary and Cultural Studies,
-Carnegie Mellon University
+*PhD Student in Literary and Cultural Studies, Carnegie Mellon University*
 
+**Daniel J. Evans**
 
-#### Daniel J. Evans
-
-MA Student in Literary and Cultural Studies,
-Carnegie Mellon University
+*MA Student in Literary and Cultural Studies, Carnegie Mellon University*
 
 * * *
 

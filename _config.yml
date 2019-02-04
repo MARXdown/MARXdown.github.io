@@ -1,9 +1,9 @@
 ---
 author:
-  email: colibri.alex@gmail.com
-  name: "Alex Gil"
-  url: "https://twitter.com/elotroalex"
-baseurl: /vol1
+  email: marxist-reading@andrew.cmu.edu
+  name: "Steven Gotzler"
+  url: "https://twitter.com/cmrg_cmu"
+baseurl: /MARXdown
 collections:
   texts:
     output: true
@@ -26,4 +26,4 @@ permalink: "/:title/"
 tagline: "(Ed. + hypothes.is)"
 theme: ed.
 title: MARXdown
-url: "http://minicomp.github.io"
+url: "https://github.com/sgotzler/MARXdown"
