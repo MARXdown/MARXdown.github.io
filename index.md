@@ -5,7 +5,7 @@ title: "MARXdown"
 
 **MARXdown** is an online digital project developed for the Contemporary Marxist Reading Group (CMRG) at Carnegie Mellon University using the lightweight markup language Markdown. Designed to support group annotation of key texts for our CMRG, it provides a centralized and accessible online space for ongoing critical engagement between readers and materials related to the study of Marxist theory.  
 
-Out first edition, Marx’s Capital Vol. 1, brings together the original English translation from 1887 with extant scholarly sources to create a multi-layered annotated edition of the text, providing critical reading guides and supplemental historical and sociological data in one easily accessible and user-friendly interface.
+MARXdown brings together the original English translation from 1887 Marx’s Capital Vol. 1 with extant scholarly sources to create a multi-layered annotated edition of the text, providing critical reading guides and supplemental historical and sociological data in one easily accessible and user-friendly interface.
 
 This **MARXdown** edition of Marx’s Capital Volume 1 was created using Ed. and hypothes.is, and draws its source text from [www.marxists.org](https://www.marxists.org/archive/marx/works/download/pdf/Capital-Volume-I.pdf).
 
