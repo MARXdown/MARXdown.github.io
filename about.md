@@ -29,6 +29,10 @@ This digital edition brings together the original English translation from 1887 
 
 *MA Student in Literary and Cultural Studies, Carnegie Mellon University*
 
+**Alex Gorman**
+
+*PhD Candidate in Philosophy, Duquesne University* 
+
 * * *
 
 ### Acknowledgments
