@@ -3,7 +3,7 @@ author:
   email: marxist-reading@andrew.cmu.edu
   name: "Steven Gotzler"
   url: "https://twitter.com/cmrg_cmu"
-baseurl: /MARXdown
+#baseurl: /MARXdown
 collections:
   texts:
     output: true
@@ -26,4 +26,4 @@ permalink: "/:title/"
 tagline: "(Ed. + hypothes.is)"
 theme: ed.
 title: MARXdown
-url: "https://github.com/sgotzler/MARXdown"
+url: "https://MARXdown.github.io"
