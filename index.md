@@ -9,17 +9,10 @@ MARXdown brings together the original English translation from 1887 Marx’s Cap
 
 This **MARXdown** edition of Marx’s Capital Volume 1 was created using Ed. and hypothes.is, and draws its source text from [www.marxists.org](https://www.marxists.org/archive/marx/works/download/pdf/Capital-Volume-I.pdf).
 
-**Ed.** is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility, durability, ease and flexibility. “Ed.” was developed by Susanna Allés Torrent, Terry Catapano, Alex Gil, and Johann Gillium. To learn more about the ideas behind Ed. and a list of current features see their about section.
-
-**hypothes.is** is an open source software platform that fosters community-building by using annotation to enable sentence-level note taking and critique layered on top of entire websites. hypothes.is uses annotation standards for digital documents developed by the W3C Web Annotation Working Group.
-
-
-
-
 <hr>
 
 <div class="toc">
-  <h2>samples of the text</h2>
+  <h2>Chapters</h2>
   <ul class="texts">
   {% for item in site.texts %}
 
@@ -31,3 +24,14 @@ This **MARXdown** edition of Marx’s Capital Volume 1 was created using Ed. and
   {% endfor %}
   </ul>
 </div>
+
+<hr>
+
+**Ed.** is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility, durability, ease and flexibility. “Ed.” was developed by Susanna Allés Torrent, Terry Catapano, Alex Gil, and Johann Gillium. To learn more about the ideas behind Ed. and a list of current features see their about section.
+
+**hypothes.is** is an open source software platform that fosters community-building by using annotation to enable sentence-level note taking and critique layered on top of entire websites. hypothes.is uses annotation standards for digital documents developed by the W3C Web Annotation Working Group.
+
+
+
+
+<hr>
