@@ -8,4 +8,24 @@ To create new md text:
 
 4. `chmod u+x ./edit.sh`  
 
-5. run `./edit/sh` script (TODO: fix logic to update endnotes) and answer prompt
+5. run `./edit/sh` script (TODO: fix logic to update footnotes) and answer prompt
+
+6. add headers (`***, ###`), links to TOC if applicable.
+
+7. update footnote information. At this point the script identifies all of the footnotes but does not change them. They need to be updated from [#] to [^#]. The footnotes need to match the values in the text. Additionally, follow the format below for the footnotes.
+
+```
+* * *
+
+## Footnotes
+
+[^1]: Footnote text
+
+```
+
+8. add index hyperlinks. e.g. for chapter 2:
+
+```[Capital Volume One - Index]({{ site.baseurl }}{% link index.html %})
+
+
+[Next: Chapter Three - Money, or the Circulation of Commodities]({{ site.baseurl }}{% link _texts/ch03.md %})```
