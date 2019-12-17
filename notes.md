@@ -29,3 +29,9 @@ To create new md text:
 
 
 [Next: Chapter Three - Money, or the Circulation of Commodities]({{ site.baseurl }}{% link _texts/ch03.md %})```
+
+9. accented e -> &eacute;
+
+10. need to write exception for table tags
+
+11. write in logic for footnotes?
