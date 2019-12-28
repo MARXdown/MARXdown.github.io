@@ -18,7 +18,8 @@ elif [[ -f $PASSED ]]; then
       cat $PASSED | awk '{gsub(/<[^>]*>/,""); print }' > $name.md
       echo "printing endnotes"
       grep -i \\[[\1-9]\*\\] $name.md
-      # sed -e 's/\[\([^]]*\)\]/\\macro{\1}/g' $name.md
+      # awk '{ gsub("\\[[\1-9]\*\\]", "\\[[\\^\1-9]\*\\]") ; }' $name.md > test.md
+      #sed -e 's/\[\([^]]*\)\]/\\macro{\1}/g' $name.md
       echo "cleaning up"
       rm -rf ../_texts/*.htm | rm -rf ../_texts/*.html
   else
