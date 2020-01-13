@@ -8,7 +8,7 @@ title: "MARXdown"
  Our first edition is the 1887 English translation of Karl Marx’s *Capital Vol. 1*. This **MARXdown** edition was created using Ed. and hypothes.is, and draws its source text from [www.marxists.org](https://www.marxists.org/archive/marx/works/download/pdf/Capital-Volume-I.pdf).
 
 <hr>
-
+#Capital Vol. 1
 <div class="toc">
   <h2>Chapters</h2>
   <ul class="texts">
