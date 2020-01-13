@@ -8,7 +8,7 @@ collections:
   texts:
     output: true
 color-scheme: ~
-description: "MARXdown is an online digital reading edition developed for the Contemporary Marxist Reading Group (CMRG) at Carnegie Mellon University using the lightweight markup language Markdown."
+description: "MARXdown is a collection of digital reading editions developed for the Contemporary Marxist Reading Group (CMRG) at Carnegie Mellon University using the lightweight markup language Markdown."
 encoding: utf-8
 exclude:
   - optional

@@ -3,13 +3,12 @@ layout: page
 title: About
 ---
 
-**MARXdown** is an online digital reading edition of the first volume of Karl Marx's *Das Kapital*.
+**MARXdown** is a collection of digital reading editions that supports group reading and annotating of key texts in Marxist theory.
+
+Published over 150 years ago, our first edition is Volume 1 of Karl Marx's *Das Kapital*. "The Process of Production of Capital" has endured as an important touchstone for many people across diverse fields in the humanities and social sciences, as well as for activists and intellectuals of all types with an interest in the experience and conditions of life under capitalism. Marx's radical vision of the social consequences of modern industrial development has had controversial and far-reaching effects in global politics and thought.
 
 
-First published over 150 years ago, volume one of *Capital* on "The Process of Production of Capital" has endured as an important touchstone for scholars across diverse fields in the humanities and social sciences, as well as for activists and intellectuals of all types with an interest in the experience and conditions of life under capitalism. Marx's radical vision of the social consequences of modern industrial development has had controversial and far-reaching effects in global politics and thought.
-
-
-This digital reading edition brings together the original English translation from 1887 (drawn from [www.marxists.org](https://www.marxists.org/archive/marx/works/download/pdf/Capital-Volume-I.pdf)) with reader generated content and extant scholarly sources to create a multi-layered annotated edition of the text providing critical reading guides and supplemental historical and sociological data in one easily accessible and user-friendly interface.
+This reading edition of *Capital* brings together the original English translation from 1887 (drawn from [www.marxists.org](https://www.marxists.org/archive/marx/works/download/pdf/Capital-Volume-I.pdf)) hopefully with annotations and extant scholarly sources to create a multi-layered edition of the text that is held in common. It aims to be a critical reading guide and supplemental historical and sociological study, in one easily accessible and (fairly) user-friendly interface to which anyone may contribute.
 
 **MARXdown** was built using *Ed.* + *hypothes.is*
 
@@ -27,10 +26,10 @@ This digital reading edition brings together the original English translation fr
 
 **Daniel J. Evans**
 
-*MA Student in Literary and Cultural Studies, Carnegie Mellon University*
+*Software Engineer, JSTOR Labs*
 
 * * *
 
 ### Acknowledgments
 
-MARXdown has been supported in part through micro-grants from [dSHARP at Carnegie Mellon](http://dsharp.library.cmu.edu/).
+MARXdown has been supported in part through grants from [dSHARP at Carnegie Mellon University](http://dsharp.library.cmu.edu/).
