@@ -9,7 +9,7 @@ title: "MARXdown"
 
 <hr>
 <div class="toc">
-  <h1>Capital Vol. 1</h2>
+  <h1>Capital Vol. 1</h1>
   <h2>Chapters</h2>
   <ul class="texts">
   {% for item in site.texts %}
