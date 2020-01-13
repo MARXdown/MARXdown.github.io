@@ -11,4 +11,4 @@ For more information on how to deploy Ed. with Jekyll to develop your own minima
 
 ## hypothes.is
 
-Forr more information about the hypothes.is project visit their [website](https://web.hypothes.is).
+For more information about the hypothes.is project visit their [website](https://web.hypothes.is).
