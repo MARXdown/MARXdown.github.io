@@ -9,10 +9,6 @@ Designed to support the layered group annotation of shared texts, editions on MA
 
  Our first edition is the 1887 English translation of Karl Marx’s *Capital Vol. 1* and draws its source text from [www.marxists.org](https://www.marxists.org/archive/marx/works/download/pdf/Capital-Volume-I.pdf).
 
- **Development Updates [ongoing]**
-
- Chapters 1-4 Ready to Annotate [1/29/2020]
- Chapters 5-9 In progress
 
 <hr>
 <div class="toc">

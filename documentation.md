@@ -4,11 +4,11 @@ title: How It Works
 author:
 ---
 
-MARXdown is built using a simple, extendable, static site generator called Jekyll. We give it plain text written in the markup language Markdown, and it generates a static website hosted for free on GitHub Pages.
+MARXdown is built using an extendable, static site generator called Jekyll. We give it plain text written in the markup language Markdown, and it generates a static website hosted for free on GitHub Pages.
 
-Jekyll also has an extensive theme system. We use a theme designed by Alex Gil for textual editors called Ed. Based on minimal computing principals, Ed focuses on focuses on legibility, durability, ease and flexibility.
+ We  utilize a Jekyll theme called "Ed," which is meant for textual editors. Designed by Alex Gil and others in NYC, Ed is based on minimal computing principles and  
 
- We implement a conversation layer over the site using hypothes.is, which enables sentence-level note taking and critique. Developed by the W3C Web Annotation Working Group, it is free, non-profit, and open source.
+Lastly, the conversation layer over the top of the site is hypothes.is, which enables sentence-level note taking and critique. Developed by the W3C Web Annotation Working Group, hypothes.is is free, non-profit, and open source.
 
 ## Ed. -  A Jekyll Theme for Minimal Editions
 
