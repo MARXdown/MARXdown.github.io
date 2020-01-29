@@ -21,7 +21,7 @@ title: About
 
 **Alex Gorman**
 
-*PhD Candidate in Philosophy at Duquesne University**
+*PhD Candidate in Philosophy at Duquesne University*
 
 * * *
 
