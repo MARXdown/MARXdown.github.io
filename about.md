@@ -5,23 +5,15 @@ title: About
 
 ### Project Leads
 
-**Steven Gotzler**
+**Steven Gotzler** | PhD Candidate in Literary and Cultural Studies, Carnegie Mellon University
 
-*PhD Candidate in Literary and Cultural Studies, Carnegie Mellon University*
+**Avery J. Wiscomb** | PhD Candidate in Literary and Cultural Studies, Carnegie Mellon University
 
-**Avery J. Wiscomb**
-
-*PhD Candidate in Literary and Cultural Studies, Carnegie Mellon University*
-
-**Daniel J. Evans**
-
-*Software Engineer, JSTOR Labs*
+**Daniel J. Evans** | Software Engineer, JSTOR Labs
 
 ### Annotations Lead
 
-**Alex Gorman**
-
-*PhD Candidate in Philosophy at Duquesne University*
+**Alex Gorman** | PhD Candidate in Philosophy at Duquesne University
 
 * * *
 
