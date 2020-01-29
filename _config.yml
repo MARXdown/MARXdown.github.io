@@ -24,6 +24,10 @@ kramdown:
 markdown: kramdown
 permalink: "/:title/"
 tagline: "(Ed. + hypothes.is)"
-theme: ed.
 title: MARXdown
 url: https://MARXdown.github.io
+defaults:
+  - scope:
+      type: texts
+    values:
+      editor: Steven Gotzler, Avery J. Wiscomb, and Daniel J. Evans
