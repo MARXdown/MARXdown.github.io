@@ -7,24 +7,17 @@ title: "MARXdown"
 
  Our first edition is the 1887 English translation of Karl Marx’s *Capital Vol. 1* and draws its source text from [www.marxists.org](https://www.marxists.org/archive/marx/works/download/pdf/Capital-Volume-I.pdf).
 
+* * *
+## **Reading Editions**
 
-<hr>
-<div class="toc">
-  <h1>Capital Vol. 1</h1>
-  <h2>Chapters</h2>
-  <ul class="texts">
-  {% for item in site.texts %}
+### [*Capital Vol.1* - Karl Marx]({{ site.baseurl }}{% link cap1index.md %})
+### The Prefaces to *Capital* (**coming soon**)
 
-    <li class="text-title">
-      <a href="{{ site.baseurl }}{{ item.url }}">
-        {{ item.title }}
-      </a>
-    </li>
-  {% endfor %}
-  </ul>
-</div>
+* * *
 
-<hr>
+**Developer's Note:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus augue dolor, iaculis at tincidunt et, molestie sed magna. Nunc sed posuere erat. Maecenas condimentum ut sapien quis vehicula. Duis feugiat velit a ex aliquam rhoncus. Maecenas in arcu mattis elit venenatis consectetur eu in libero.
+
+* * *
 
 **Ed** is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility, durability, ease and flexibility. “Ed” was developed by Susanna Allés Torrent, Terry Catapano, Alex Gil, and Johann Gillium.
 

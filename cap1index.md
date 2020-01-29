@@ -2,7 +2,6 @@
 layout: default
 title: "MARXdown"
 ---
-<hr>
 <div class="toc">
   <h1>Capital Vol. 1</h1>
   {% assign grouped_chapters=site.texts | group_by:"part" %}
@@ -20,5 +19,3 @@ title: "MARXdown"
   </ul>
   {% endfor %}
 </div>
-
-<hr>
