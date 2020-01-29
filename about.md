@@ -3,17 +3,6 @@ layout: page
 title: About
 ---
 
-We want to build light weight, minimal reading editions of key Marxist texts with the goal of being accessible, legible, and held in common. Each edition aims to be a critical reading guide and supplemental historical and sociological study for the public, in one easily accessible and user-friendly interface to which anyone may contribute.
-
-Published over 150 years ago, our first edition is Vol. 1 of Karl Marx's *Das Kapital*. "The Process of Production of Capital" has endured as an important touchstone for many in the humanities and social sciences, as well as for activists and intellectuals of all types with an interest in the experience and conditions of life under capitalism.
-
-**Marx's radical vision of the social consequences of modern industrial development has had controversial and far-reaching effects in global politics and thought.**
-
-This edition of *Capital Vol. 1* brings together the original English translation from 1887 (drawn from [www.marxists.org](https://www.marxists.org/archive/marx/works/download/pdf/Capital-Volume-I.pdf)) with public annotations and links to extant scholarly sources.
-
-
-* * *
-
 ### Project Leads
 
 **Steven Gotzler**
@@ -28,6 +17,11 @@ This edition of *Capital Vol. 1* brings together the original English translatio
 
 *Software Engineer, JSTOR Labs*
 
+### Annotations Lead
+
+**Alex Gorman**
+
+*PhD Candidate in Philosophy at Duquesne University**
 
 * * *
 
