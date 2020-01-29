@@ -5,9 +5,11 @@ title: "MARXdown"
 <hr>
 <div class="toc">
   <h1>Capital Vol. 1</h1>
-  <h3>Part I. Commodities and Money</h3>
+  {% assign grouped_chapters=site.texts | group_by:"part" %}
+  {% for part in grouped_chapters %}
+  <h3>{{part.name}}</h3>
   <ul class="texts">
-  {% for item in site.texts %}
+  {% for item in part.items %}
 
     <li class="text-title">
       <a href="{{ site.baseurl }}{{ item.url }}">
@@ -16,8 +18,7 @@ title: "MARXdown"
     </li>
   {% endfor %}
   </ul>
+  {% endfor %}
 </div>
-
-<hr>
 
 <hr>
