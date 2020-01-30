@@ -5,6 +5,8 @@ author:
 ---
 
 
+
+
 * **Step 1**: [Sign up for a free hypothes.is account by clicking here](https://web.hypothes.is/start/)
 
 * **Step 2**: [Learn how to easily annotate reading editions on MARXdown using your new hypothes.is account by clicking here](https://web.hypothes.is/quick-start-guide-for-students/).
