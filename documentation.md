@@ -4,11 +4,8 @@ title: How It Works
 author:
 ---
 
-We're interested in exploring new ways to build light weight, minimal reading editions of key Marxist texts that are multi-layered, legible, and held in common.
 
-The goal is to cooperate together to create critical reading guides and supplemental historical and sociological studies, in an easily accessible and user-friendly interface to which anyone may contribute.
-
-###### Getting Started with Annotating the Text
+**Getting Started with Annotating the Text**
 
 * **Step 1**: [Sign up for a free hypothes.is account by clicking here](https://web.hypothes.is/start/)
 
