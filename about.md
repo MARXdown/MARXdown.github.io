@@ -3,7 +3,7 @@ layout: page
 title: About Us
 ---
 
-MARXdown is interested in creating minimal reading editions of important texts that are readable, multi-layered, and public. Our goal is to cooperate together to create critical reading guides and supplemental historical and sociological studies, in easily accessible and user-friendly interfaces to which anyone may contribute.
+MARXdown is interested in creating minimal reading editions of texts important for reconsidering contemporary Marxist theory, which are readable, multi-layered, and public. Our goal is to cooperate together with others in creating critical reading guides and supplemental historical and sociological studies, in easily accessible and user-friendly interfaces to which anyone may contribute.  
 
 * * *
 
@@ -23,9 +23,9 @@ MARXdown is interested in creating minimal reading editions of important texts t
 
 ## How it Works
 
-MARXdown was built using a static site generator called Jekyll and a theme designed for textual editors called "Ed."
+MARXdown was built using a static site generator called Jekyll and a theme designed for textual editors called "Ed." Based on minimal computing principals. Ed focuses on legibility, durability, ease and flexibility.
 
-Developed by Alex Gil and others, Ed is based on minimal computing principals and focuses on legibility, durability, ease and flexibility. MARXdown incorporates a conversation layer over the site with hypothes.is, which is developed by the W3C Web Annotation Working Group.
+The site enables a conversation layer with help from hypothes.is, which was developed by the W3C Web Annotation Working Group.
 
 **MARXdown is free, non-profit, and open source.**
 
@@ -34,4 +34,4 @@ Developed by Alex Gil and others, Ed is based on minimal computing principals an
 
 ## Acknowledgments
 
-This project has been supported in part through grants from [dSHARP at Carnegie Mellon University](http://dsharp.library.cmu.edu/). Thanks also to Alex Gil and Matthew Lincoln.
+MARXdown has been supported in part through grants from [dSHARP at Carnegie Mellon University](http://dsharp.library.cmu.edu/). Thanks also to Alex Gil and Matthew Lincoln.
