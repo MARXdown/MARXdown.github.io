@@ -15,7 +15,7 @@ title: "MARXdown"
 
 * * *
 
-**Developer's Note:** [1/30] Textual editing is ongoing on this site. Please limit annotations to Ch. 1-9.
+**Developer's Note:** [1/30/2020] Please limit  annotations of *Capital Vol. 1* to Ch. 1-9. Textual editing of its remaining chapters is ongoing.
 
 * * *
 
