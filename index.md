@@ -11,7 +11,7 @@ title: "MARXdown"
 ## **Reading Editions**
 
 ### [Capital Vol.1 - Karl Marx]({{ site.baseurl }}{% link cap1index.md %})
->Published over 150 years ago, Vol. 1 of Karl Marx's *Das Kapital*, "The Process of Production of Capital," has endured as an important touchstone for many in the humanities and social sciences, as well as for activists and intellectuals of all types with an interest in the experience and conditions of life under capitalism.
+> Published over 150 years ago, Vol. 1 of Karl Marx's *Das Kapital*, "The Process of Production of Capital," has endured as an important touchstone for many in the humanities and social sciences, as well as for activists and intellectuals of all types with an interest in the experience and conditions of life under capitalism.
 
 ###  Prefaces to Capital Vol. 1 (in progress)
 
@@ -19,10 +19,7 @@ title: "MARXdown"
 
 **Developer's Note:**
 
-[1/30/2020]
-
-
-Please limit annotations of *Capital Vol. 1* to Ch. 1-9 and 11. Textual editing of its remaining chapters is ongoing.
+[1/30/2020] Please limit annotations of *Capital Vol. 1* to Ch. 1-9 and 11. Textual editing of its remaining chapters is ongoing.
 
 
 

@@ -4,8 +4,7 @@ title: Annotate the Text
 author:
 ---
 
-
-
+* * *
 
 * **Step 1**: [Sign up for a free hypothes.is account by clicking here](https://web.hypothes.is/start/)
 
@@ -17,8 +16,8 @@ author:
 
 * **Step 5**: [Navigate to Ch. 1 in the reading edition of *Capital Vol. 1* on this site](https://marxdown.github.io/texts/ch01/).
 
-* **Step 6** Open the **hypothes.is** tab in the upper right and make sure you're signed in. Scroll to see highlights and read extant "Public" annotations in Ch. 1.
+* **Step 6**: Open the hypothes.is tab in the upper right and make sure you're signed in. Scroll to see highlights and read extant "Public" annotations.
 
 * **Step 7**: Start annotating!
 
-* **Step 7**: Add to or complicate other's annotations by replying to them, or start your own, with the goal of contributing to a public, media-layered edition of Marx's text.
+* **Step 7**: Add to or complicate other's annotations by replying, or start your own, with the goal of contributing to a public, media-layered edition of Marx's text.
