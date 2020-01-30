@@ -5,7 +5,7 @@ author:
 ---
 
 
-**Getting Started with Annotating the Text**
+**Getting Started with Annotating the Text** 
 
 * **Step 1**: [Sign up for a free hypothes.is account by clicking here](https://web.hypothes.is/start/)
 

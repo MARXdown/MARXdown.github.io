@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-**We're attempting to build light weight, minimal reading editions of key Marxist texts that are multi-layered, legible, and held in common. Our goal is to cooperate together to create critical reading guides and supplemental historical and sociological studies, in easily accessible and user-friendly interfaces to which anyone may contribute.**
+**We're attempting to build light weight, minimal reading editions of key Marxist texts that are multi-layered, legible, and held in common. Our goal is to cooperate together to create critical reading guides and supplemental historical and sociological studies, in easily accessible and user-friendly interfaces to which anyone may contribute.** 
 
 ### Project Leads
 
