@@ -4,7 +4,9 @@ title: How It Works
 author:
 ---
 
-We're interested in building light weight, minimal reading editions of key  texts with the goal of being accessible, legible, and held in common. Help to create a critical reading guide and supplemental historical and sociological study, in one easily accessible and user-friendly interface to which anyone may contribute.
+**We're interested in exploring new ways to build light weight, minimal reading editions of key Marxist texts that are multi-layered, legible, flexible, and held in common**
+
+The goal is to cooperate together to create critical reading guides and supplemental historical and sociological studies, in an easily accessible and user-friendly interface to which anyone may contribute.
 
 **Getting Started with Annotating the Text**
 
@@ -18,14 +20,13 @@ We're interested in building light weight, minimal reading editions of key  text
 
 * **Step 5**: Start annotating! Or read and reply to an existing annotation, with the goal of contributing to a cooperative, media-layered edition of Marx's text.
 
-##  What It's Doing
 
-MARXdown is built using an extendable, static site generator called Jekyll, using a theme designed by for textual editors called Ed. It incorporates a conversation layer over the site with help from hypothes.is, which was developed by the W3C Web Annotation Working Group. MARXdown is free, non-profit, and open source.
+##  How We're Doing It
 
-#### Ed. -  A Jekyll Theme for Minimal Editions
+MARXdown is built using an extendable, static site generator called Jekyll, using a theme designed by for textual editors called Ed. It incorporates a conversation layer over the site with help from hypothes.is, which was developed by the W3C Web Annotation Working Group.
 
-For more information on how to deploy Ed, a Jekyll theme developed by Alex Gil and others, to create your own lightweight reading editions [explore this repository](https://github.com/minicomp/ed)
+**MARXdown is free, non-profit, and open source.**
 
-#### hypothes.is
+For more information on how to deploy Ed, a Jekyll theme developed by Alex Gil and others, and to learn how to create your own lightweight reading editions [explore this repository](https://github.com/minicomp/ed)
 
 If you're curious about hypothes.is and the great things you can do with it on the web then check out their [website here](https://web.hypothes.is).
