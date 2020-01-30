@@ -10,12 +10,12 @@ title: "MARXdown"
 * * *
 ## **Reading Editions**
 
-### [*Capital Vol.1* - Karl Marx]({{ site.baseurl }}{% link cap1index.md %})
-### The Prefaces to *Capital* (**coming soon**)
+### [Capital Vol.1 - Karl Marx]({{ site.baseurl }}{% link cap1index.md %})
+###  Prefaces to Capital Vol. 1 (**in progress**)
 
 * * *
 
-**Developer's Note:** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus augue dolor, iaculis at tincidunt et, molestie sed magna. Nunc sed posuere erat. Maecenas condimentum ut sapien quis vehicula. Duis feugiat velit a ex aliquam rhoncus. Maecenas in arcu mattis elit venenatis consectetur eu in libero.
+**Developer's Note:** [1/30] Textual editing is ongoing on this site. Please limit annotations to Ch. 1-9.
 
 * * *
 
