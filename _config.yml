@@ -8,7 +8,7 @@ collections:
   texts:
     output: true
 color-scheme: ~
-description:""
+description:
 encoding: utf-8
 exclude:
   - optional
