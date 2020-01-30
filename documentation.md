@@ -4,7 +4,9 @@ title: How It Works
 author:
 ---
 
-## Getting Started with Reading and Annotating the Text
+We're interested in building light weight, minimal reading editions of key  texts with the goal of being accessible, legible, and held in common. Help to create a critical reading guide and supplemental historical and sociological study, in one easily accessible and user-friendly interface to which anyone may contribute.
+
+**Getting Started with Annotating the Text**
 
 * **Step 1**: Sign up for a free [hypothes.is](https://web.hypothes.is/about/) account by clicking [here](https://web.hypothes.is/start/)
 
@@ -16,11 +18,14 @@ author:
 
 * **Step 5**: Start annotating! Or read and reply to an existing annotation, with the goal of contributing to a cooperative, media-layered edition of Marx's text.
 
+##  What It's Doing
 
-###### Ed. -  A Jekyll Theme for Minimal Editions
+MARXdown is built using an extendable, static site generator called Jekyll, using a theme designed by for textual editors called Ed. It incorporates a conversation layer over the site with help from hypothes.is, which was developed by the W3C Web Annotation Working Group. MARXdown is free, non-profit, and open source.
 
-For more information on how to deploy Ed with Jekyll to develop your own   reading editions visit this [Git Repository](https://github.com/minicomp/ed)
+#### Ed. -  A Jekyll Theme for Minimal Editions
 
-####### hypothes.is
+For more information on how to deploy Ed, a Jekyll theme developed by Alex Gil and others, to create your own lightweight reading editions [explore this repository](https://github.com/minicomp/ed)
 
-For more information about  hypothes.is  and what you can do with it on the web  check out their [website](https://web.hypothes.is).
+#### hypothes.is
+
+If you're curious about hypothes.is and the great things you can do with it on the web then check out their [website here](https://web.hypothes.is).
