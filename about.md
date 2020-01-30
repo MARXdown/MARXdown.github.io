@@ -1,9 +1,11 @@
 ---
 layout: page
-title: About
+title: About Us
 ---
 
-**We're attempting to build light weight, minimal reading editions of key Marxist texts that are multi-layered, legible, and held in common. Our goal is to cooperate together to create critical reading guides and supplemental historical and sociological studies, in easily accessible and user-friendly interfaces to which anyone may contribute.** 
+MARXdown is interested in creating lightweight, minimal reading editions of key Marxist texts that are multi-layered, legible, and held in common. Our goal is to cooperate together to create critical reading guides and supplemental historical and sociological studies, in easily accessible and user-friendly interfaces to which anyone may contribute.
+
+* * *
 
 ### Project Leads
 
@@ -16,6 +18,12 @@ title: About
 ### Annotations Lead
 
 **Alex Gorman** PhD Candidate in Philosophy at Duquesne University
+
+* * *
+
+##  How We're Doing It
+
+MARXdown is built using an extendable, static site generator called Jekyll, and a theme designed by for textual editors called Ed. It incorporates a conversation layer over the site with help from hypothes.is, which was developed by the W3C Web Annotation Working Group.
 
 * * *
 

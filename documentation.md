@@ -1,11 +1,11 @@
 ---
 layout: page
-title: How It Works
+title: Annotate the Text
 author:
 ---
 
 
-**Getting Started with Annotating the Text** 
+#### Getting Started with Annotations
 
 * **Step 1**: [Sign up for a free hypothes.is account by clicking here](https://web.hypothes.is/start/)
 
@@ -17,9 +17,4 @@ author:
 
 * **Step 5**: Start annotating! Or read and reply to an existing annotation, with the goal of contributing to a cooperative, media-layered edition of Marx's text.
 
-
-##  How We're Doing It
-
-MARXdown is built using an extendable, static site generator called Jekyll, using a theme designed by for textual editors called Ed. It incorporates a conversation layer over the site with help from hypothes.is, which was developed by the W3C Web Annotation Working Group.
-
-**MARXdown is free, non-profit, and open source.**
+* * *

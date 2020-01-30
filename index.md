@@ -3,7 +3,7 @@ layout: default
 title: "MARXdown"
 ---
 
-**MARXdown is a collection of online reading editions initially developed for the Contemporary Marxist Reading Group at Carnegie Mellon University using the lightweight markup language Markdown.** 
+**MARXdown is a collection of online reading editions initially developed for the Contemporary Marxist Reading Group at Carnegie Mellon University using the lightweight markup language Markdown.**
 
  Our first edition is the 1887 English translation of Karl Marx’s *Capital Vol. 1* and draws its source text from [www.marxists.org](https://www.marxists.org/archive/marx/works/download/pdf/Capital-Volume-I.pdf).
 
