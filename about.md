@@ -3,7 +3,7 @@ layout: page
 title: About Us
 ---
 
-MARXdown is interested in creating minimal reading editions of important texts that are legible and public. Our goal is to cooperate together to create critical reading guides and supplemental historical and sociological studies, in easily accessible and user-friendly interfaces to which anyone may contribute.
+MARXdown is interested in creating minimal reading editions of important texts that are readable, multi-layered, and public. Our goal is to cooperate together to create critical reading guides and supplemental historical and sociological studies, in easily accessible and user-friendly interfaces to which anyone may contribute.
 
 * * *
 
@@ -21,14 +21,10 @@ MARXdown is interested in creating minimal reading editions of important texts t
 
 * * *
 
-##  How We're Doing It
-
-MARXdown is built using an extendable, static site generator called Jekyll, and a theme designed by for textual editors called Ed. It incorporates a conversation layer over the site with help from hypothes.is, which was developed by the W3C Web Annotation Working Group.
-
 **MARXdown is free, non-profit, and open source.**
 
 * * *
 
-### Acknowledgments
+## Acknowledgments
 
 MARXdown has been supported in part through grants from [dSHARP at Carnegie Mellon University](http://dsharp.library.cmu.edu/). Thanks also to Alex Gil and Matthew Lincoln.

@@ -11,8 +11,12 @@ author:
 
 * **Step 3**: [{Please review and save our style guide BEFORE you post your first annotation or reply](https://docs.google.com/document/d/14hfh7E9KhtJHpYjst5-CMwGYY_kEFJtXUpmQSema5Zs/edit?usp=sharing).
 
-* **Step 4**: It's time to read a couple annotations! [Navigate to Ch. 1 in the reading edition of *Capital Vol. 1* on MARXdown](https://marxdown.github.io/texts/ch01/), then open the hypothes.is tab in the upper right. Scroll to see extant "Public" annotations.
+* **Step 4**: It's time to read a couple annotations!
 
-* **Step 5**: Start annotating! Or read others annotations and reply, with the goal of contributing to a public, media-layered edition of Marx's text.
+* **Step 5**: [Navigate to Ch. 1 in the reading edition of *Capital Vol. 1* on MARXdown](https://marxdown.github.io/texts/ch01/), then open the hypothes.is tab in the upper right. Scroll to see extant "Public" annotations.
+
+* **Step 6**: Start annotating!
+
+* **Step 7**: Read other's annotations and add to it or complicate it, with the goal of contributing to a public, media-layered edition of Marx's text.
 
 * * *

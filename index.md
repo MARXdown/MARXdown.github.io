@@ -19,15 +19,11 @@ Published over 150 years ago, Vol. 1 of Karl Marx's *Das Kapital*, "The Process 
 
 **Developer's Note:**
 [1/30/2020]
+
 Please limit annotations of *Capital Vol. 1* to Ch. 1-9 and 11. Textual editing of its remaining chapters is ongoing.
 
 * * *
 
-###  How it Works
-
-MARXdown is built using an extendable, static site generator called Jekyll and a theme designed for textual editors based on minimal computing principles called "Ed."
-
-It's conversation layer is powered by hypothes.is, an open-source, non-profit software project that enables sentence-level note taking on top of entire websites, using standards for digital documents developed by the W3C Web Annotation Working Group.
 
 
 
