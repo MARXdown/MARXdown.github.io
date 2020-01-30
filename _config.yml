@@ -8,7 +8,7 @@ collections:
   texts:
     output: true
 color-scheme: ~
-description:
+description: "There is no royal road to science, and only those who do not dread the fatiguing climb of its steep paths have a chance of gaining its luminous summits.—Karl Marx, Capital Vol. 1, Preface to the French Edition (1872)"
 encoding: utf-8
 exclude:
   - optional
