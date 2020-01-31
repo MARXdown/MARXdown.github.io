@@ -5,9 +5,7 @@ author:
 ---
 
 
-* * *
-
- Marx's vision of the social consequences of modern industrial development has had controversial and far-reaching effects in global politics and thought. Your annotations on MARXdown can provide readers with an accessible online space for ongoing engagement with Marx's radical critique.
+Marx's vision of the social consequences of modern industrial development has had controversial and far-reaching effects in global politics and thought. Your annotations on MARXdown provide readers with an accessible online space for ongoing engagement with Marx's radical critique.
 
 * **Step 1**: [Sign up for a free hypothes.is account by clicking here](https://web.hypothes.is/start/)
 

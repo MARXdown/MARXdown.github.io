@@ -3,7 +3,9 @@ layout: page
 title: About Us
 ---
 
-MARXdown is interested in creating minimal reading editions of texts important for reconsidering contemporary Marxist theory, which are readable, multi-layered, and public. Our goal is to cooperate together with others in creating critical reading guides and supplemental historical and sociological studies, in an easily accessible user-friendly interface, to which anyone may contribute.  
+**MARXdown is interested in creating minimal reading editions of texts important for reconsidering contemporary Marxist theory, which are readable, multi-layered, and public.**
+
+Our goal is to cooperate together with others in creating critical reading guides and supplemental historical and sociological studies, in an easily accessible, user-friendly interface to which anyone may contribute.  
 
 * * *
 
