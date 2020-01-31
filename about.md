@@ -3,7 +3,7 @@ layout: page
 title: About Us
 ---
 
-MARXdown is interested in creating minimal reading editions of texts important for reconsidering contemporary Marxist theory, which are readable, multi-layered, and public. Our goal is to cooperate together with others in creating critical reading guides and supplemental historical and sociological studies, in easily accessible and user-friendly interfaces to which anyone may contribute.  
+MARXdown is interested in creating minimal reading editions of texts important for reconsidering contemporary Marxist theory, which are readable, multi-layered, and public. Our goal is to cooperate together with others in creating critical reading guides and supplemental historical and sociological studies, in an easily accessible user-friendly interface, to which anyone may contribute.  
 
 * * *
 
@@ -13,11 +13,13 @@ MARXdown is interested in creating minimal reading editions of texts important f
 
 **Avery J. Wiscomb** PhD Candidate in Literary and Cultural Studies, Carnegie Mellon University
 
-**Daniel J. Evans** Software Engineer, JSTOR Labs
+* * *
 
 ### Annotation Lead
 
 **Alex Gorman** PhD Candidate in Philosophy, Duquesne University
+
+* * *
 
 ### Additional Textual Editing
 
@@ -25,9 +27,17 @@ MARXdown is interested in creating minimal reading editions of texts important f
 
 * * *
 
+### MARXdown Alumni
+
+The following people have contributed to MARXdown in a variety of capacities, and we gratefully acknowledge their work.
+
+**Daniel J. Evans** Software Engineer, JSTOR Labs
+
+* * *
+
 ## How it Works
 
-MARXdown was built based on [minimal computing principles](http://go-dh.github.io/mincomp/), using a static site generator called [Jekyll](https://jekyllrb.com) and a theme designed for textual editors called "[Ed](https://elotroalex.github.io/ed/)." 
+MARXdown is built based on [minimal computing principles](http://go-dh.github.io/mincomp/), using a static site generator called [Jekyll](https://jekyllrb.com) and a theme designed for textual editors called "[Ed](https://elotroalex.github.io/ed/)."
 
 The site enables a conversation layer with help from [hypothes.is](https://web.hypothes.is/about/), which was based on the annotation standards for digital documents developed by the [W3C Web Annotation Working Group](https://www.w3.org/annotation/).
 
