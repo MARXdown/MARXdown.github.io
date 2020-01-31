@@ -3,9 +3,9 @@ layout: page
 title: About Us
 ---
 
-**MARXdown creates minimal reading editions of texts important for reconsidering contemporary Marxist theory, which are readable, multi-layered, and public.**
+* * *
 
-Our goal is to cooperate together with others in developing critical reading guides and supplemental historical and sociological studies, in easily accessible, user-friendly interfaces to which anyone may contribute.  
+MARXdown develops minimal reading editions of texts important for reconsidering contemporary Marxist theory, which are readable, multi-layered, and public. Our goal is to cooperate together with others in creating critical reading guides and supplemental historical and sociological studies, in easily accessible, user-friendly interfaces to which anyone may contribute.  
 
 * * *
 
@@ -15,19 +15,13 @@ Our goal is to cooperate together with others in developing critical reading gui
 
 **Avery J. Wiscomb** PhD Candidate in Literary and Cultural Studies, Carnegie Mellon University
 
-* * *
-
 ### Annotation Lead
 
 **Alex Gorman** PhD Candidate in Philosophy, Duquesne University
 
-* * *
-
 ### Additional Textual Editing
 
 **Chloe Perry** Predoctoral Fellow in Social and Decision Science, Carnegie Melon University
-
-* * *
 
 ### MARXdown Alumni
 
