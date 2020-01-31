@@ -9,28 +9,23 @@ MARXdown develops minimal reading editions of texts important for reconsidering 
 
 ### Project Leads
 
-**Steven Gotzler**
-PhD Candidate in Literary and Cultural Studies, Carnegie Mellon University
+**Steven Gotzler** PhD Candidate in Literary and Cultural Studies, Carnegie Mellon University
 
-**Avery J. Wiscomb**
-PhD Candidate in Literary and Cultural Studies, Carnegie Mellon University
+**Avery J. Wiscomb** PhD Candidate in Literary and Cultural Studies, Carnegie Mellon University
 
 ### Annotation Lead
 
-**Alex Gorman**
-PhD Candidate in Philosophy, Duquesne University
+**Alex Gorman** PhD Candidate in Philosophy, Duquesne University
 
 ### Additional Textual Editing
 
-**Chloe Perry**
-Predoctoral Fellow in Social and Decision Science, Carnegie Melon University
+**Chloe Perry** Predoctoral Fellow in Social and Decision Science, Carnegie Melon University
 
 ### MARXdown Alumni
 
-*The following people have contributed to MARXdown in a variety of capacities, and we gratefully acknowledge their work.*
+The following people have contributed to MARXdown in a variety of capacities, and we gratefully acknowledge their work.
 
-**Daniel J. Evans**
-Software Engineer, JSTOR Labs
+**Daniel J. Evans** Software Engineer, JSTOR Labs
 
 * * *
 
