@@ -4,6 +4,7 @@ title: Annotate the Text
 author:
 ---
 
+* * *
 
 Marx's vision of the social consequences of modern industrial development has had controversial and far-reaching effects in global politics and thought. Your annotations on MARXdown provide readers with an accessible online space for ongoing engagement with Marx's radical critique.
 
