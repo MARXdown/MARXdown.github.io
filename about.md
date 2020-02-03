@@ -3,7 +3,7 @@ layout: page
 title: About Us
 ---
 
-MARXdown develops minimal reading editions of texts important for reconsidering contemporary Marxist theory, which are readable, multi-layered, and public. Our goal is to cooperate together with others in creating critical reading guides and supplemental historical and sociological studies, in easily accessible, user-friendly interfaces to which anyone may contribute.  
+MARXdown is interested in developing minimal reading editions of texts important for reconsidering contemporary Marxist theory that are readable, multi-layered, and public. Our goal is to cooperate together with others in creating critical reading guides and supplemental historical and sociological studies, in easily accessible, user-friendly interfaces to which anyone may contribute.  
 
 * * *
 
@@ -23,7 +23,7 @@ MARXdown develops minimal reading editions of texts important for reconsidering 
 
 ### MARXdown Alumni
 
-The following people have contributed to MARXdown in a variety of capacities, and we gratefully acknowledge their work.
+The following people have contributed in a variety of capacities, and we gratefully acknowledge their work.
 
 **Daniel J. Evans** Software Engineer, JSTOR Labs
 
