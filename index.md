@@ -5,7 +5,7 @@ title: "MARXdown"
 
 **MARXdown is a collection of online reading editions initially developed for the Contemporary Marxist Reading Group at Carnegie Mellon University using the lightweight markup language Markdown.**
 
- Our first edition is the 1887 English translation of Karl Marx’s *Capital Vol. 1* and draws its source text from [www.marxists.org](https://www.marxists.org/archive/marx/works/download/pdf/Capital-Volume-I.pdf).
+ Our first edition for the public is the 1887 English translation of Karl Marx’s *Capital Vol. 1* and draws its source text from [www.marxists.org](https://www.marxists.org/archive/marx/works/download/pdf/Capital-Volume-I.pdf).
 
 * * *
 ## **Reading Editions**
@@ -19,7 +19,7 @@ Published over 150 years ago, Vol. 1 of Karl Marx's *Das Kapital*, "The Process 
 
 **Developer's Note:**
 
-[1/31/2020] **Please limit annotations of *Capital Vol. 1* to Ch. 1-14. Textual editing of its remaining chapters is ongoing.**
+[2/04/2020] **Ch. 25 of *Capital Vol. 1* presents us with some tricky tables to render and is under construction. However, please help us by adding your annotations to the rest of the Marx's text.**
 
 
 
