@@ -19,7 +19,7 @@ Published over 150 years ago, Vol. 1 of Karl Marx's *Das Kapital*, "The Process 
 
 **Developer's Note:**
 
-[2/04/2020] **Ch. 25 of *Capital Vol. 1* presents us with some tricky tables to render and is under construction. However, please help us by adding your annotations to the rest of the Marx's text.**
+[2/04/2020] **Ch. 25 of *Capital Vol. 1* presents us with some tricky tables to render and is under construction. However, please help us by adding your annotations to the rest of Marx's text.**
 
 
 
