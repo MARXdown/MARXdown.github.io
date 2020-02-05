@@ -19,11 +19,7 @@ Published over 150 years ago, Vol. 1 of Karl Marx's *Das Kapital*, "The Process 
 
 **Developer's Note:**
 
-<<<<<<< HEAD
-[2/04/2020] **Like the revolution of the proletariat, Ch. 25 of *Capital Vol. 1* is not quite here yet.** [You can help us by adding annotations to the rest of Marx's text here](https://marxdown.github.io/cap1index/).**
-=======
-[2/04/2020] **Ch. 25 of *Capital Vol. 1* presents us with some tricky tables to render and is under construction. However, please help us by adding your annotations to the rest of Marx's text.**
->>>>>>> b27f87e9985e8411390db2b8560933d54801aea2
+[2/04/2020] **Like the revolution of the proletariat, Ch. 25 of *Capital Vol. 1* is not quite here yet.** [You can help us by adding annotations to the rest of Marx's text here](https://marxdown.github.io/documentation/).
 
 
 
