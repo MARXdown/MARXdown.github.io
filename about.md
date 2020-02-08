@@ -43,3 +43,7 @@ The site enables a conversation layer with help from [hypothes.is](https://web.h
 ## Acknowledgments
 
 MARXdown has been supported in part through grants from [dSHARP at Carnegie Mellon University](http://dsharp.library.cmu.edu/). Thanks also to Alex Gil and Matthew Lincoln.
+
+* * *
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/){:target="_blank"}
