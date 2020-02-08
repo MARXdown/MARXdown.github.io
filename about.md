@@ -31,9 +31,9 @@ The following people have contributed in a variety of capacities, and we gratefu
 
 ## How it Works
 
-MARXdown is built based on [minimal computing principles](http://go-dh.github.io/mincomp/){:target="_blank"}, using a static site generator called [Jekyll](https://jekyllrb.com){:target="_blank"} and a theme designed for textual editors called "[Ed](https://elotroalex.github.io/ed/){:target="_blank"}."
+MARXdown is built on [minimal computing principles](http://go-dh.github.io/mincomp/){:target="_blank"}, using a static site generator called [Jekyll](https://jekyllrb.com){:target="_blank"} and a theme designed for textual editors called "[Ed](https://elotroalex.github.io/ed/){:target="_blank"}." Ed is designed by Susanna Allés Torrent, Terry Catapano, Alex Gil, and Johann Gillium.
 
-The site enables a conversation layer with help from [hypothes.is](https://web.hypothes.is/about/){:target="_blank"}, which was based on the annotation standards for digital documents developed by the [W3C Web Annotation Working Group](https://www.w3.org/annotation/){:target="_blank"}.
+The site enables a conversation layer with help from [hypothes.is](https://web.hypothes.is/about/){:target="_blank"}, which is based on the annotation standards for digital documents developed by the [W3C Web Annotation Working Group](https://www.w3.org/annotation/){:target="_blank"}.
 
 **MARXdown is free, non-profit, and open source.**
 
@@ -42,7 +42,7 @@ The site enables a conversation layer with help from [hypothes.is](https://web.h
 
 ## Acknowledgments
 
-MARXdown has been supported in part through grants from [dSHARP at Carnegie Mellon University](http://dsharp.library.cmu.edu/){:target="_blank"}. Thanks also to Alex Gil and Matthew Lincoln.
+MARXdown has been supported through grants from [dSHARP at Carnegie Mellon University](http://dsharp.library.cmu.edu/){:target="_blank"}. Thanks also to Alex Gil for his feedback on the design and implementation of the site and to Matthew Lincoln for his technical advice and support.
 
 * * *
 
