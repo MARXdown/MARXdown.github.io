@@ -19,7 +19,7 @@ MARXdown is interested in developing minimal reading editions of texts important
 
 ### Additional Textual Editing
 
-**Chloe Perry** Predoctoral Fellow in Social and Decision Science, Carnegie Melon University
+**Chloe Perry** Predoctoral Fellow in Social and Decision Science, Carnegie Mellon University
 
 ### MARXdown Alumni
 
