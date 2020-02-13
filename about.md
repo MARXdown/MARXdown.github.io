@@ -17,7 +17,7 @@ MARXdown is interested in developing minimal reading editions of texts important
 
 **Alex Gorman** PhD Candidate in Philosophy, Duquesne University
 
-### Additional Textual Editing
+### Textual Editing
 
 **Chloe Perry** Predoctoral Fellow in Social and Decision Science, Carnegie Mellon University
 
