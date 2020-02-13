@@ -15,11 +15,6 @@ Published over 150 years ago, Vol. 1 of Karl Marx's *Das Kapital*, "The Process 
 
 ###  Prefaces to Capital Vol. 1 (in progress)
 
-* * *
-
-**Developer's Note:**
-
-[2/07/2020] **Like the revolution of the proletariat, textual editing of Ch. 25 of *Capital Vol. 1* is ongoing. [You can help us by adding annotations to the rest of Marx's text here](https://marxdown.github.io/annotatethetext/).**
 
 * * *
 
