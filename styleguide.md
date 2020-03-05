@@ -12,18 +12,6 @@ To ensure that MARXdown is an accessible and user-friendly resource, we have com
 
 * * *
 
-## Getting Started
-
-* * *
-
-**Step 1**: If you haven’t already, sign up for a free hypothes.is account [click here](https://hypothes.is/signup).
-
-**Step 2**: [Start annotating!](https://web.hypothes.is/quick-start-guide-for-students/) MARXdown supports links to videos, allows users to thread discussions and respond to one another, share links to other online resources (e.g. www.marxists.org), and share external resources through our Zotero group.
-
-**Step 3**: If you’d like to share and download PDF files of texts that supplement and enrich readers’ encounters with *Capital*, create a free Zotero account by registering here, find the MARXdown group and request access to the group. Someone should add you within 24 hours. Further details about how to share PDFs can be found below.
-
-* * *
-
 ## Suggested Guidelines
 
 * * *
