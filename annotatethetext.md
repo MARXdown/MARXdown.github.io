@@ -12,7 +12,7 @@ Marx's vision of the social consequences of modern industrial development has ha
 
 * **Step 2**: [Learn how to quickly annotate texts like those on MARXdown using hypothes.is by clicking here](https://web.hypothes.is/quick-start-guide-for-students/){:target="_blank"}.
 
-* **Step 3**: [Take a moment to read "The MARXdown Style Guide for Annotations" before you begin annotating by clicking here](https://docs.google.com/document/d/14hfh7E9KhtJHpYjst5-CMwGYY_kEFJtXUpmQSema5Zs/edit?usp=sharing){:target="_blank"}.
+* **Step 3**: Take a moment to read [The MARXdown Style Guide for Annotations]({{ site.baseurl }}{% link styleguide.md %}){:target="_blank"} before you begin annotating.
 
 * **Step 4**: Now it's time to read a couple annotations for context! [Navigate to Ch. 1 in the reading edition of *Capital Vol. 1* on this site by clicking here](https://marxdown.github.io/texts/ch01/){:target="_blank"}.
 
