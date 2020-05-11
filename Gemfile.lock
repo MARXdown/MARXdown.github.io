@@ -230,7 +230,7 @@ GEM
       forwardable-extended (~> 2.6)
     public_suffix (3.1.1)
     rainbow (3.0.0)
-    rake (10.5.0)
+    rake (12.3.3)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
@@ -266,7 +266,7 @@ DEPENDENCIES
   ed.!
   github-pages
   html-proofer
-  rake (~> 10.4)
+  rake (~> 12.3)
 
 BUNDLED WITH
    1.17.2
